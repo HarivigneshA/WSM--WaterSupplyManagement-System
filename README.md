@@ -1,2 +1,2 @@
-# WATER_SUPPLY__MANAGEMENT
+# WATER SUPPLY MANAGEMENT SYSTEM 
 water supply management system using JavaSwing
