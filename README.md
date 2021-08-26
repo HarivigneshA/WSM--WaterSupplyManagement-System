@@ -19,9 +19,7 @@ OOPS Concept is used in this project.
 
 <ol>
   <li>Consumer Login & Signup Screen</li>
-  <li></li>
-  <li>Simple UI/UX</li>
-  <li>and many more..</li>
+  <li>Consumption monitoring</li>
 </ol>  
 
 ## Authors
