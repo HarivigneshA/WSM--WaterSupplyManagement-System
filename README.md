@@ -26,9 +26,7 @@
 <a href="https://github.com/HarivigneshA">
   <img src="https://avatars.githubusercontent.com/u/69417101?v=4" width=100px/>
 </a>
-
 <span>&nbsp;&nbsp;&nbsp;</span>
-
 <a href="https://github.com/sankeerthan27">
   <img src="https://avatars.githubusercontent.com/u/68860991?v=4"  width=100px  /> 
 </a>
