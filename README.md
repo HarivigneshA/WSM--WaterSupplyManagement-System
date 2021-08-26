@@ -26,7 +26,7 @@ OOPS Concept is used in this project.
 ## Authors
 
 <a href="https://github.com/HarivigneshA">
-  <img src="https://avatars.githubusercontent.com/u/69417101?v=4"> <img src="https://github.com/remarkablemark.png?size=50">
+  <img src="https://avatars.githubusercontent.com/u/69417101?v=4" alt="Avatar"> <img src="https://avatars.githubusercontent.com/u/68860991?v=4" alt="Avatar">
 </a>
 
 ## Version History
