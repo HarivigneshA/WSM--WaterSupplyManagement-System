@@ -30,7 +30,7 @@ OOPS Concept is used in this project.
 </a>
 
 <a href="https://github.com/HarivigneshA">
-  <img src="https://avatars.githubusercontent.com/u/68860991?v=4" alt="Avatar">
+  <img src="https://avatars.githubusercontent.com/u/68860991?v=4" alt="Avatar" width="100px;" /> 
 </a>
 
   
