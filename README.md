@@ -1,2 +1,2 @@
-# WATER SUPPLY MANAGEMENT SYSTEM 
-water supply management system using JavaSwing
+WSM
+WSM is a water supply management application for House-hold, two-member project
