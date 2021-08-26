@@ -1,7 +1,7 @@
 
 # Project Title
 
-WSM
+**WSM**
 
 ## Description
 
