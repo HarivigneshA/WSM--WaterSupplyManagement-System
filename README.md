@@ -24,25 +24,16 @@ OOPS Concept is used in this project.
 </ol>  
 
 ## Authors
-.avatar {
-  vertical-align: middle;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-}
+ <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt=""/>
 <a href="https://github.com/HarivigneshA">
-  <img src="https://avatars.githubusercontent.com/u/69417101?v=4" alt="Avatar" class="avatar">
-  <img src="https://avatars.githubusercontent.com/u/69417101?v=4" alt="Avatar"> <img src="https://avatars.githubusercontent.com/u/68860991?v=4" alt="Avatar">
+  <img src="https://avatars.githubusercontent.com/u/69417101?v=4" alt="Avatar"> 
 </a>
 
-## Version History
+<a href="https://github.com/HarivigneshA">
+  <img src="https://avatars.githubusercontent.com/u/68860991?v=4" alt="Avatar">
+</a>
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
+  
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
