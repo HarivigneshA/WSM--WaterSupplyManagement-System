@@ -12,7 +12,7 @@ OOPS Concept is used in this project.
 # Screenshots:
 
 <div>
-  <img src="screenshot/1.PNG"></img>
+  <img src=""></img>
 </div>
 
 # Features
