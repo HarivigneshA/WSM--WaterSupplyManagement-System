@@ -6,10 +6,9 @@
 
 ## Description
 
-WSM is a water supply management application made as part of my college project. The front-end is created using Java GUI tool kit **Swing** and **Abstract Window Toolkit (awt)** and backend developed using **Java** and **mysql**.
-OOPS Concept is used in this project.
+**WSM** is a water supply management application made as part of my college project. The front-end is created using Java GUI tool kit **Swing** and **Abstract Window Toolkit (awt)** and backend developed using **Java** and **mysql**. OOPS Concept is used in this project.
 
-# Screenshots:
+# Screenshots
 
 <div>
   <img src=""></img>
@@ -27,7 +26,9 @@ OOPS Concept is used in this project.
 <a href="https://github.com/HarivigneshA">
   <img src="https://avatars.githubusercontent.com/u/69417101?v=4" width=100px/>
 </a>
+
 <span>&nbsp;&nbsp;&nbsp;</span>
+
 <a href="https://github.com/sankeerthan27">
   <img src="https://avatars.githubusercontent.com/u/68860991?v=4"  width=100px  /> 
 </a>
