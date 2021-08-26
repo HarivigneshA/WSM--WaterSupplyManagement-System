@@ -24,9 +24,9 @@ OOPS Concept is used in this project.
 </ol>  
 
 ## Authors
- <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt=""/>
+
 <a href="https://github.com/HarivigneshA">
-  <img src="https://avatars.githubusercontent.com/u/69417101?v=4" alt="Avatar"> 
+  <img src="https://avatars.githubusercontent.com/u/69417101?v=4" alt="Avatar" width="100px;" /> 
 </a>
 
 <a href="https://github.com/HarivigneshA">
