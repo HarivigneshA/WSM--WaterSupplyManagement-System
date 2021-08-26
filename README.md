@@ -24,8 +24,14 @@ OOPS Concept is used in this project.
 </ol>  
 
 ## Authors
-
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
 <a href="https://github.com/HarivigneshA">
+  <img src="https://avatars.githubusercontent.com/u/69417101?v=4" alt="Avatar" class="avatar">
   <img src="https://avatars.githubusercontent.com/u/69417101?v=4" alt="Avatar"> <img src="https://avatars.githubusercontent.com/u/68860991?v=4" alt="Avatar">
 </a>
 
