@@ -1,4 +1,11 @@
 
+<style>
+
+#image-one{margin-top:10px;}
+
+#image-two{margin-top:20px;}
+
+</style>
 # Project Title
 
 **WSM**
@@ -26,7 +33,7 @@ OOPS Concept is used in this project.
 ## Authors
 
 <a href="https://github.com/HarivigneshA">
-  <img src="https://avatars.githubusercontent.com/u/69417101?v=4" alt="Avatar" width="100px;" style = "margin:50px;" />
+  <img src="https://avatars.githubusercontent.com/u/69417101?v=4" alt="Avatar" width="100px;" id="image-one" />
 </a>
 <a href="https://github.com/HarivigneshA">
   <img src="https://avatars.githubusercontent.com/u/68860991?v=4" alt="Avatar" width="100px;" /> 
