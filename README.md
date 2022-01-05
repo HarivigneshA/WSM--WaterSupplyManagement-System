@@ -18,16 +18,8 @@
 
 <ol>
   <li>Consumer Login & Signup Screen</li>
-  <li>Consumption monitoring</li>
+  <li>Water Consumption monitoring and review</li>
+  <li>Peak usage Alert</li>
 </ol>  
 
-### Authors
-
-<a href="https://github.com/HarivigneshA">
-  <img src="https://avatars.githubusercontent.com/u/69417101?v=4" width=100px/>
-</a>
-<span>&nbsp;&nbsp;&nbsp;</span>
-<a href="https://github.com/sankeerthan27">
-  <img src="https://avatars.githubusercontent.com/u/68860991?v=4"  width=100px  /> 
-</a>
 
